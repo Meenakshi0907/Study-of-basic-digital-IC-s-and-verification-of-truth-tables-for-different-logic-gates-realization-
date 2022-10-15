@@ -77,6 +77,7 @@ xnor (y7,a,b);
 endmodule
 ```
 ## Logic symbol & Truthtable:
+![image](https://user-images.githubusercontent.com/94165108/195992342-f6334355-e947-48f3-af08-278ff3c0a419.png)
 
 ## Output:
 ![ex1](./log1.png)
